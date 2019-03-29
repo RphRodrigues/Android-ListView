@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="estados_brasileiros">ESTADOS BRASILEIROS</string>
+    <string name="Brasil">Brasil</string>
 </resources>
